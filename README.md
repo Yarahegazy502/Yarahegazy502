@@ -1,2 +1,2 @@
 
-<h1>Hey there 👋, I'm Yara Ibrahim</h1>
+<h1>Hi there 👋, I'm Yara Ibrahim</h1>
