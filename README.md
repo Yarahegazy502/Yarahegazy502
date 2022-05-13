@@ -1,11 +1,12 @@
 
-### Hi there 👋, Yara Ibrahim
+### Hi there 👋, I'm Yara Ibrahim
 #### Frontend developer
 <!-- ![Frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I am Frontend Developer and Instructor in Compiler Community. I Love Sharing My Information With Others. and also love to learn something new every single time .
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## Skills
+VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.Elephant Phunk 
 - 🌱 I’m currently learning Angular 
