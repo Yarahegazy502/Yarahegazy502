@@ -6,13 +6,13 @@
 I am Frontend Developer and Instructor in Compiler Community. I Love Sharing My Information With Others. and also love to learn something new every single time .
 
 ## Skills
-*Html / Html5
-*Css / Css3
-*Javascript / JQuary
-*Sass / Bootstrap
-*Angular
-*Git / Github
-*Adobe XD
+* Html / Html5
+* Css / Css3
+* Javascript / JQuary
+* Sass / Bootstrap
+* Angular
+* Git / Github
+* Adobe XD
 
 - 🔭 I’m currently working on this page.Elephant Phunk 
 - 🌱 I’m currently learning Angular 
