@@ -14,7 +14,7 @@ I am Frontend Developer and Instructor in Compiler Community. I Love Sharing My 
 * Git / Github
 * Adobe XD
 
-- 🔭 I’m currently working on this page.Elephant Phunk 
+- 🔭 I’m currently working on Elephant Phunk.
 - 🌱 I’m currently learning Angular 
 
 
