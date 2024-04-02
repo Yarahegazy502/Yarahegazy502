@@ -11,6 +11,7 @@ I am Frontend Developer . I Love Sharing My Information With Others. and also lo
 * Javascript / JQuary
 * Sass / Bootstrap
 * Angular
+* Primeng
 * Git / Github
 * Adobe XD
 
