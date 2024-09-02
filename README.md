@@ -12,11 +12,14 @@ I am Frontend Developer . I Love Sharing My Information With Others. and also lo
 * Sass / Bootstrap
 * Angular
 * Primeng
+* RXJS
+* NGRX
 * Git / Github
-* Adobe XD
+* Figma
 
-- 🔭 I’m currently working on Elephant Phunk.
-- 🌱 I’m currently learning Angular 
+- 🔭 I’m currently working as frontend instructor in DEPI.
+- 🔭 I’m currently working on cde sharks.
+  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yarahegazy502)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yara-hegazy-61b208190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](yaraibrahim.netlify.app)  
