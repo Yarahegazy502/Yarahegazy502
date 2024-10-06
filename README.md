@@ -3,7 +3,7 @@
 #### Frontend developer
 <!-- ![Frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I am Frontend Developer . I Love Sharing My Information With Others. and also love to learn something new every single time .
+I am Frontend Developer at Etisalat . I Love Sharing My Information With Others. and also love to learn something new every single time .
 
 ## Skills and Experience
 * Html / Html5
